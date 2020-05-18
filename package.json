@@ -1,0 +1,20 @@
+{
+  "name": "chatter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moses",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^5.2.0",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.7",
+    "mongoose": "^5.9.14",
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0"
+  }
+}
